@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fitabigail
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Code Institute
+- 🌱 I’m currently graduate at Code Institute
 - 💞️ I’m looking to  on Junior Softer Developer
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/gdinu)
 
