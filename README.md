@@ -74,6 +74,14 @@ MY TECH STACK 💻 :
  </p>
 
 ---
+### :fire: My Stats :
+
+| My Stats  | Languages  Used |  
+| :--- | :---: | 
+| [![GitHub Streak](https://streak-stats.demolab.com?user=fitabigail&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitabigail&layout=compact) |
+
+
+---
 
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 *Level 6 Diploma in Web Application Development - Code Institute**
@@ -83,4 +91,6 @@ MY TECH STACK 💻 :
 | :--- | :---: | :--- | 
 | <u>Portfolio Project 1:</u> <br><br> [Irishbodybuilding](https://github.com/fitabigail/irishbodybuilding) <br><br> <img width="250" alt="Am i responsive" src="./assets/reademeimg/irishbodybuilding.png"> <br> <br> The Irishbodybuilding website is a landing page for new and experienced bodybuilder athletes looking for competitive performance. The Irishbodybuilding offers a guide for main bodybuilding organizations, trainers, and a competitional calendar.<br> <br> **Features:**<br> 1. CSS Flexbox and Grid <br> <br>| HTML5, CSS | Pass  | <br><br>
 | <u>Portfolio Project 2:</u> <br><br> [Irish Mortgage Consulting](https://github.com/fitabigail/IrishMortgageConsulting) <br> <img width="250" alt="amiresponsive" src="./assets/reademeimg/irishmortgageconsulting.png"> <br><br> This project is the second one I've undertaken as part of the Full Stack Software Diploma course at Codeinstitute.net. It is a website about mortgages through brokers. <br><br> | HTML5, CSS, JavaScript | Pass |
-| <u>Portfolio Project 3:</u> <br><br>[Family Quiz](https://github.com/fitabigail/family-quiz) <br> <br> <img width="250" alt="AmIResponsive" src="https://github.com/eleanorbucke21/rubybm21/assets/107644138/040b1d2e-9ec3-4cd5-bbf9-b047c23cfe30"><br> A family qiuz game complied a list of 10 questions, with answers of True or False. <br> <br> **Features:**<br> 1. Answer Validation <br> 2. Live score counting <br>  | Python and Javascript | Merit |
+| <u>Portfolio Project 3:</u> <br><br>[Family Quiz](https://github.com/fitabigail/family-quiz) <br> <br> <img width="250" alt="AmIResponsive" src="./assets/reademeimg/familyquiz.png"><br> A family qiuz game complied a list of 10 questions, with answers of True or False. <br> <br> **Features:**<br> 1. Answer Validation <br> 2. Live score counting <br>  | Python and Javascript | Merit |
+| <u>Portfolio Project 4:</u> <br><br>[LamborghiniDeal](https://github.com/fitabigail/Lamborghini-Deals)   <br> <img width="250" alt="amiresponsive (1)" src="./assets/reademeimg/LamborghiniDeal.png"> <br><br> LamborghiniDeal is a website for selling second-hand Lamborghini. The user can quickly search for a specific car model, through the search bar on the home page, or by more specific fields on the cars page. Also, the user can navigate on displayed cars, and choose a car post to have more details about. Once a car post is chosen the user can request more information by completing an inquiry form. To request more details about a car the user must be registered on the website. He can see his inquiries on the user dashboard, and update or delete the inquiry.<br><br> **Features:**<br> 1. User Authentication<br> 2. CRUD operations for standard users and admin. <br> 3. Admin approval <br> 4. Clopudinary API for storing and sharing images. <br> 5. Fully Responsive. <br><br>  | HTML, JavaScript, Django, CSS, Bootstrap 4, Jquery, Heroku | Pass | 
+| <u>Portfolio Project 5:</u> <br><br>[Madame Musette](https://github.com/fitabigail/Madame-Musette) <br> <img width="250" alt="amiresponsivepp5" src="./assets/reademeimg/MadameMusette.png"> <br><br> Madame Musette is a fully functional E-Commerce store built in Django using Python, JavaScript, CSS, Bootstrap4, HTML and it incorporates stripe payments. The site includes user authentication and Full CRUD functionality for products. Madame Musette is a website for selling ladies shoes and accessories. The user can quickly search for a specific categories, through the search bar on home page, or by more specific fields on the home and products page. <br><br> **Features:**<br> 1. User Authentication <br> 2. CRUD operations for admin. <br> 3. Admin approval <br> 4. Accurate product categorization <br> 5. Fully Responsive. <br><br> | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, GitHub Projects, Amazon S3, PostgreSQL, Search Engine Optimization (SEO) and Heroku | Pass | 
